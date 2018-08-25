@@ -33,7 +33,7 @@ Setting up Tux is fairly simple. All you need to do is include it in your Gemfil
 
 ## Using Tux
 
-We've got a full Sinatra application with a single `User` class set up. We've already created the migration for you, but make sure you actually run the migration to create the user table.
+We've got a full Sinatra application with a single `User` class set up. We've already created the migration for you, but make sure you actually run the migration to create thtuxe user table.
 
 Next, it's time to use Tux. In terminal in the directory of this walk-through enter `tux`. You should see something like this:
 
